@@ -4,4 +4,8 @@ public class MainTest {
 	public static void main(String[] args) {
 		System.out.println("OKKKKKK");
 	}
+	
+	public void eval(String expr) {
+		System.out.println("expr "+expr);
+	}
 }
