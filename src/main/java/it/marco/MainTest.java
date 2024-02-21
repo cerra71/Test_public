@@ -6,6 +6,6 @@ public class MainTest {
 	}
 	
 	public void eval(String expr) {
-		System.out.println("expr "+expr);
+		 boolean b = expr.equals("");
 	}
 }
