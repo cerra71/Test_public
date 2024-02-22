@@ -7,5 +7,6 @@ public class MainTest {
 	
 	public void eval(String expr) {
 		 boolean b = expr.equals("");
+		 int a = 8/0;
 	}
 }
